@@ -31,7 +31,7 @@ Você pode disponibilizar o executável `.exe` **diretamente no GitHub** usando 
 
 Depois disso, o GitHub gera um link direto pra download que você pode colocar aqui:
 
-➡️ **Download Windows EXE:** https://github.com/SEU_USUARIO/SEU_REPO/releases
+➡️ **Download Windows EXE:**https://github.com/SEU_USUARIO/SEU_REPO/releases](https://github.com/x864dev/-OnClick-Setup-Automated-Windows-Installer/releases/tag/v1.0
 
 🇺🇸  
 You can host your `.exe` file **directly on GitHub** using the **Releases** tab:
