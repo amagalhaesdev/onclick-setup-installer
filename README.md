@@ -145,4 +145,5 @@ This project is free to use for educational and portfolio purposes.
 
 **André Ananias (x864dev)**  
 GitHub: https://github.com/x864dev
-Linkdein: https://www.linkedin.com/in/andrepczx/
+---
+Linkdin https://www.linkedin.com/in/andrepczx/
