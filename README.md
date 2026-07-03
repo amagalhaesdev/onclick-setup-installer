@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como **teste técnico** e também como **projeto d
 Você pode baixar o executável `.exe` diretamente na aba **Releases** do repositório.
 
  **Download:**  
-https://github.com/amagalhaesdev/-OnClick-Setup-Automated-Windows-Installer/releases/tag/v1.0
+https://github.com/amagalhaesdev/onclick-setup-installer/releases/tag/v1.0
 
 ---
 
